@@ -1,1 +1,3 @@
-# i3-arch
+### i3 config
+* conkyrc
+.....
